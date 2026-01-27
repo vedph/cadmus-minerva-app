@@ -29,6 +29,8 @@ import { routes } from './app.routes';
 import { INDEX_LOOKUP_DEFINITIONS } from './index-lookup-definitions';
 import { ITEM_BROWSER_KEYS } from './item-browser-keys';
 import { PART_EDITOR_KEYS } from './part-editor-keys';
+import { LEX_LEMMA_PART_LID_GENERATOR_TOKEN } from '@myrmidon/cadmus-part-lexicography-lemma';
+import { AppLidGenerator } from './services/app-lid-generator';
 
 export const appConfig: ApplicationConfig = {
   providers: [
@@ -40,7 +42,7 @@ export const appConfig: ApplicationConfig = {
     importProvidersFrom(
       NgxEchartsModule.forRoot({
         echarts: () => import('echarts'),
-      })
+      }),
     ),
     importProvidersFrom(NgeMonacoModule.forRoot({})),
     importProvidersFrom(NgeMarkdownModule),
@@ -79,7 +81,7 @@ export const appConfig: ApplicationConfig = {
         mdBoldCtePlugin: MdBoldCtePlugin,
         mdItalicCtePlugin: MdItalicCtePlugin,
         txtEmojiCtePlugin: TxtEmojiCtePlugin,
-        mdLinkCtePlugin: MdLinkCtePlugin
+        mdLinkCtePlugin: MdLinkCtePlugin,
       ) => {
         return {
           plugins: [mdBoldCtePlugin, mdItalicCtePlugin, txtEmojiCtePlugin, mdLinkCtePlugin],
@@ -101,6 +103,11 @@ export const appConfig: ApplicationConfig = {
         2083: 'txt.emoji', // Ctrl+E
         2090: 'md.link', // Ctrl+L
       },
+    },
+    // LID generator via injection token
+    {
+      provide: LEX_LEMMA_PART_LID_GENERATOR_TOKEN,
+      useClass: AppLidGenerator,
     },
   ],
 };
