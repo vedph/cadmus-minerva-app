@@ -14,6 +14,7 @@ This project was generated using [Angular CLI](https://github.com/angular/angula
 
 ## History
 
+- 2026-01-28: updated packages.
 - 2026-01-27: updated Angular and packages.
 - 2025-11-24:
   - ⚠️ upgraded to Angular 21.

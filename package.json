@@ -48,11 +48,11 @@
     "@myrmidon/cadmus-mat-physical-state": "^9.0.2",
     "@myrmidon/cadmus-part-general-pg": "^16.0.5",
     "@myrmidon/cadmus-part-general-ui": "^16.0.2",
-    "@myrmidon/cadmus-part-lexicography-lemma": "^0.0.7",
+    "@myrmidon/cadmus-part-lexicography-lemma": "^0.0.8",
     "@myrmidon/cadmus-part-lexicography-pg": "^0.0.7",
-    "@myrmidon/cadmus-part-lexicography-word-collocations": "^0.0.7",
+    "@myrmidon/cadmus-part-lexicography-word-collocations": "^0.0.9",
     "@myrmidon/cadmus-part-lexicography-word-forms": "^0.0.7",
-    "@myrmidon/cadmus-part-lexicography-word-senses": "^0.0.7",
+    "@myrmidon/cadmus-part-lexicography-word-senses": "^0.0.8",
     "@myrmidon/cadmus-preview-pg": "^17.0.1",
     "@myrmidon/cadmus-preview-ui": "^17.0.3",
     "@myrmidon/cadmus-profile-core": "^12.0.1",
@@ -102,7 +102,7 @@
     "karma-chrome-launcher": "~3.2.0",
     "karma-coverage": "~2.2.1",
     "karma-jasmine": "~5.1.0",
-    "karma-jasmine-html-reporter": "~2.1.0",
+    "karma-jasmine-html-reporter": "~2.2.0",
     "typescript": "~5.9.3"
   },
   "optionalDependencies": {

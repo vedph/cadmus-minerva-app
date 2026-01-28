@@ -87,20 +87,20 @@ importers:
         specifier: ^16.0.2
         version: 16.0.2(49abb79e7471721a71f03703ab87f9ac)
       '@myrmidon/cadmus-part-lexicography-lemma':
-        specifier: ^0.0.7
-        version: 0.0.7(@angular/common@21.1.1(@angular/core@21.1.1(@angular/compiler@21.1.1)(rxjs@7.8.2)(zone.js@0.15.1))(rxjs@7.8.2))(@angular/core@21.1.1(@angular/compiler@21.1.1)(rxjs@7.8.2)(zone.js@0.15.1))(@angular/material@21.1.1(731dbe7534a4a9544831960bb1e2c2af))
+        specifier: ^0.0.8
+        version: 0.0.8(@angular/common@21.1.1(@angular/core@21.1.1(@angular/compiler@21.1.1)(rxjs@7.8.2)(zone.js@0.15.1))(rxjs@7.8.2))(@angular/core@21.1.1(@angular/compiler@21.1.1)(rxjs@7.8.2)(zone.js@0.15.1))(@angular/material@21.1.1(731dbe7534a4a9544831960bb1e2c2af))
       '@myrmidon/cadmus-part-lexicography-pg':
         specifier: ^0.0.7
         version: 0.0.7(@angular/common@21.1.1(@angular/core@21.1.1(@angular/compiler@21.1.1)(rxjs@7.8.2)(zone.js@0.15.1))(rxjs@7.8.2))(@angular/core@21.1.1(@angular/compiler@21.1.1)(rxjs@7.8.2)(zone.js@0.15.1))(@angular/material@21.1.1(731dbe7534a4a9544831960bb1e2c2af))
       '@myrmidon/cadmus-part-lexicography-word-collocations':
-        specifier: ^0.0.7
-        version: 0.0.7(@angular/common@21.1.1(@angular/core@21.1.1(@angular/compiler@21.1.1)(rxjs@7.8.2)(zone.js@0.15.1))(rxjs@7.8.2))(@angular/core@21.1.1(@angular/compiler@21.1.1)(rxjs@7.8.2)(zone.js@0.15.1))(@angular/material@21.1.1(731dbe7534a4a9544831960bb1e2c2af))
+        specifier: ^0.0.9
+        version: 0.0.9(@angular/common@21.1.1(@angular/core@21.1.1(@angular/compiler@21.1.1)(rxjs@7.8.2)(zone.js@0.15.1))(rxjs@7.8.2))(@angular/core@21.1.1(@angular/compiler@21.1.1)(rxjs@7.8.2)(zone.js@0.15.1))(@angular/material@21.1.1(731dbe7534a4a9544831960bb1e2c2af))
       '@myrmidon/cadmus-part-lexicography-word-forms':
         specifier: ^0.0.7
-        version: 0.0.7(@angular/common@21.1.1(@angular/core@21.1.1(@angular/compiler@21.1.1)(rxjs@7.8.2)(zone.js@0.15.1))(rxjs@7.8.2))(@angular/core@21.1.1(@angular/compiler@21.1.1)(rxjs@7.8.2)(zone.js@0.15.1))(@angular/material@21.1.1(731dbe7534a4a9544831960bb1e2c2af))(@myrmidon/cadmus-part-lexicography-lemma@0.0.7(@angular/common@21.1.1(@angular/core@21.1.1(@angular/compiler@21.1.1)(rxjs@7.8.2)(zone.js@0.15.1))(rxjs@7.8.2))(@angular/core@21.1.1(@angular/compiler@21.1.1)(rxjs@7.8.2)(zone.js@0.15.1))(@angular/material@21.1.1(731dbe7534a4a9544831960bb1e2c2af)))
+        version: 0.0.7(@angular/common@21.1.1(@angular/core@21.1.1(@angular/compiler@21.1.1)(rxjs@7.8.2)(zone.js@0.15.1))(rxjs@7.8.2))(@angular/core@21.1.1(@angular/compiler@21.1.1)(rxjs@7.8.2)(zone.js@0.15.1))(@angular/material@21.1.1(731dbe7534a4a9544831960bb1e2c2af))(@myrmidon/cadmus-part-lexicography-lemma@0.0.8(@angular/common@21.1.1(@angular/core@21.1.1(@angular/compiler@21.1.1)(rxjs@7.8.2)(zone.js@0.15.1))(rxjs@7.8.2))(@angular/core@21.1.1(@angular/compiler@21.1.1)(rxjs@7.8.2)(zone.js@0.15.1))(@angular/material@21.1.1(731dbe7534a4a9544831960bb1e2c2af)))
       '@myrmidon/cadmus-part-lexicography-word-senses':
-        specifier: ^0.0.7
-        version: 0.0.7(80f2fd199c792c2c34bc302987dc934c)
+        specifier: ^0.0.8
+        version: 0.0.8(80f2fd199c792c2c34bc302987dc934c)
       '@myrmidon/cadmus-preview-pg':
         specifier: ^17.0.1
         version: 17.0.1(@angular/common@21.1.1(@angular/core@21.1.1(@angular/compiler@21.1.1)(rxjs@7.8.2)(zone.js@0.15.1))(rxjs@7.8.2))(@angular/core@21.1.1(@angular/compiler@21.1.1)(rxjs@7.8.2)(zone.js@0.15.1))(@myrmidon/cadmus-api@14.0.5(36aa5e9715dffe69b31c2cc24596ffeb))(@myrmidon/cadmus-preview-ui@17.0.3(ab1501074559291f17e3eacd2aa25bcf))(@myrmidon/ngx-mat-tools@1.0.1(@angular/common@21.1.1(@angular/core@21.1.1(@angular/compiler@21.1.1)(rxjs@7.8.2)(zone.js@0.15.1))(rxjs@7.8.2))(@angular/core@21.1.1(@angular/compiler@21.1.1)(rxjs@7.8.2)(zone.js@0.15.1)))(@myrmidon/ngx-tools@2.0.2(@angular/common@21.1.1(@angular/core@21.1.1(@angular/compiler@21.1.1)(rxjs@7.8.2)(zone.js@0.15.1))(rxjs@7.8.2))(@angular/core@21.1.1(@angular/compiler@21.1.1)(rxjs@7.8.2)(zone.js@0.15.1)))
@@ -244,8 +244,8 @@ importers:
         specifier: ~5.1.0
         version: 5.1.0(karma@6.4.4)
       karma-jasmine-html-reporter:
-        specifier: ~2.1.0
-        version: 2.1.0(jasmine-core@6.0.1)(karma-jasmine@5.1.0(karma@6.4.4))(karma@6.4.4)
+        specifier: ~2.2.0
+        version: 2.2.0(jasmine-core@6.0.1)(karma-jasmine@5.1.0(karma@6.4.4))(karma@6.4.4)
       typescript:
         specifier: ~5.9.3
         version: 5.9.3
@@ -1226,8 +1226,8 @@ packages:
       '@myrmidon/ngx-mat-tools': ^1.0.1
       '@myrmidon/ngx-tools': ^2.0.2
 
-  '@myrmidon/cadmus-part-lexicography-lemma@0.0.7':
-    resolution: {integrity: sha512-Ozf4YgK1ChO5zYp4iCPV9CTucXO46jbNIwXyJUgeGVcE4lKC1rd7J5JEXY8qRm5f0aEnCr5fOTEX3VhiFVSpzA==}
+  '@myrmidon/cadmus-part-lexicography-lemma@0.0.8':
+    resolution: {integrity: sha512-CBLhNvg4baaCoLN42r/BAe3CvHieApkzDV4P7mmc6HUCMyo2SFvdlrUHAFvrZbkKGO4oLxIf69ePx8AWyBhCqQ==}
     peerDependencies:
       '@angular/common': ^20.0.0 || ^21.0.0
       '@angular/core': ^20.0.0 || ^21.0.0
@@ -1240,8 +1240,8 @@ packages:
       '@angular/core': ^20.0.0 || ^21.0.0
       '@angular/material': ^20.0.0 || ^21.0.0
 
-  '@myrmidon/cadmus-part-lexicography-word-collocations@0.0.7':
-    resolution: {integrity: sha512-14x63DFQkxzUSIjfhz/QvwcbUSFghfn1XCAZ2pRCeJuFSaaKjmrQDxTfcYVcgcfNo1EzK7Qn5CdjhQRFxHs2UA==}
+  '@myrmidon/cadmus-part-lexicography-word-collocations@0.0.9':
+    resolution: {integrity: sha512-6CX+7dScLpoO2kfpkMUQy1uiQwSiCr43b28sFgPN721uSvcup2KZe9Al4+kMmeytxe1v7KbSKoUCc8a1w0IB4A==}
     peerDependencies:
       '@angular/common': ^20.0.0 || ^21.0.0
       '@angular/core': ^20.0.0 || ^21.0.0
@@ -1255,8 +1255,8 @@ packages:
       '@angular/material': ^20.0.0 || ^21.0.0
       '@myrmidon/cadmus-part-lexicography-lemma': ^0.0.7
 
-  '@myrmidon/cadmus-part-lexicography-word-senses@0.0.7':
-    resolution: {integrity: sha512-gZAY3QINzOiO5yFV6/PUMB5iKx3L4Vku0WYjza6xbeCr2LvI89e79NO2Vyjful41nQNMZRHXW/ENL0h99jj/dw==}
+  '@myrmidon/cadmus-part-lexicography-word-senses@0.0.8':
+    resolution: {integrity: sha512-ckHM09yrN9C53beDsPwcEBllbXi6j1iIA+g/DccUPCg4ZuxdarOH+clSuaElgVhZNtL5ScwrhqcreraRUhvSJA==}
     peerDependencies:
       '@angular/common': ^20.0.0 || ^21.0.0
       '@angular/core': ^20.0.0 || ^21.0.0
@@ -3065,10 +3065,10 @@ packages:
     resolution: {integrity: sha512-yj7hbequkQP2qOSb20GuNSIyE//PgJWHwC2IydLE6XRtsnaflv+/OSGNssPjobYUlhVVagy99TQpqUt3vAUG7A==}
     engines: {node: '>=10.0.0'}
 
-  karma-jasmine-html-reporter@2.1.0:
-    resolution: {integrity: sha512-sPQE1+nlsn6Hwb5t+HHwyy0A1FNCVKuL1192b+XNauMYWThz2kweiBVW1DqloRpVvZIJkIoHVB7XRpK78n1xbQ==}
+  karma-jasmine-html-reporter@2.2.0:
+    resolution: {integrity: sha512-J0laEC43Oy2RdR5V5R3bqmdo7yRIYySq6XHKbA+e5iSAgLjhR1oICLGeSREPlJXpeyNcdJf3J17YcdhD0mRssQ==}
     peerDependencies:
-      jasmine-core: ^4.0.0 || ^5.0.0
+      jasmine-core: ^4.0.0 || ^5.0.0 || ^6.0.0
       karma: ^6.0.0
       karma-jasmine: ^5.0.0
 
@@ -5093,7 +5093,7 @@ snapshots:
       '@myrmidon/ngx-tools': 2.0.2(@angular/common@21.1.1(@angular/core@21.1.1(@angular/compiler@21.1.1)(rxjs@7.8.2)(zone.js@0.15.1))(rxjs@7.8.2))(@angular/core@21.1.1(@angular/compiler@21.1.1)(rxjs@7.8.2)(zone.js@0.15.1))
       tslib: 2.8.1
 
-  '@myrmidon/cadmus-part-lexicography-lemma@0.0.7(@angular/common@21.1.1(@angular/core@21.1.1(@angular/compiler@21.1.1)(rxjs@7.8.2)(zone.js@0.15.1))(rxjs@7.8.2))(@angular/core@21.1.1(@angular/compiler@21.1.1)(rxjs@7.8.2)(zone.js@0.15.1))(@angular/material@21.1.1(731dbe7534a4a9544831960bb1e2c2af))':
+  '@myrmidon/cadmus-part-lexicography-lemma@0.0.8(@angular/common@21.1.1(@angular/core@21.1.1(@angular/compiler@21.1.1)(rxjs@7.8.2)(zone.js@0.15.1))(rxjs@7.8.2))(@angular/core@21.1.1(@angular/compiler@21.1.1)(rxjs@7.8.2)(zone.js@0.15.1))(@angular/material@21.1.1(731dbe7534a4a9544831960bb1e2c2af))':
     dependencies:
       '@angular/common': 21.1.1(@angular/core@21.1.1(@angular/compiler@21.1.1)(rxjs@7.8.2)(zone.js@0.15.1))(rxjs@7.8.2)
       '@angular/core': 21.1.1(@angular/compiler@21.1.1)(rxjs@7.8.2)(zone.js@0.15.1)
@@ -5107,22 +5107,22 @@ snapshots:
       '@angular/material': 21.1.1(731dbe7534a4a9544831960bb1e2c2af)
       tslib: 2.8.1
 
-  '@myrmidon/cadmus-part-lexicography-word-collocations@0.0.7(@angular/common@21.1.1(@angular/core@21.1.1(@angular/compiler@21.1.1)(rxjs@7.8.2)(zone.js@0.15.1))(rxjs@7.8.2))(@angular/core@21.1.1(@angular/compiler@21.1.1)(rxjs@7.8.2)(zone.js@0.15.1))(@angular/material@21.1.1(731dbe7534a4a9544831960bb1e2c2af))':
+  '@myrmidon/cadmus-part-lexicography-word-collocations@0.0.9(@angular/common@21.1.1(@angular/core@21.1.1(@angular/compiler@21.1.1)(rxjs@7.8.2)(zone.js@0.15.1))(rxjs@7.8.2))(@angular/core@21.1.1(@angular/compiler@21.1.1)(rxjs@7.8.2)(zone.js@0.15.1))(@angular/material@21.1.1(731dbe7534a4a9544831960bb1e2c2af))':
     dependencies:
       '@angular/common': 21.1.1(@angular/core@21.1.1(@angular/compiler@21.1.1)(rxjs@7.8.2)(zone.js@0.15.1))(rxjs@7.8.2)
       '@angular/core': 21.1.1(@angular/compiler@21.1.1)(rxjs@7.8.2)(zone.js@0.15.1)
       '@angular/material': 21.1.1(731dbe7534a4a9544831960bb1e2c2af)
       tslib: 2.8.1
 
-  '@myrmidon/cadmus-part-lexicography-word-forms@0.0.7(@angular/common@21.1.1(@angular/core@21.1.1(@angular/compiler@21.1.1)(rxjs@7.8.2)(zone.js@0.15.1))(rxjs@7.8.2))(@angular/core@21.1.1(@angular/compiler@21.1.1)(rxjs@7.8.2)(zone.js@0.15.1))(@angular/material@21.1.1(731dbe7534a4a9544831960bb1e2c2af))(@myrmidon/cadmus-part-lexicography-lemma@0.0.7(@angular/common@21.1.1(@angular/core@21.1.1(@angular/compiler@21.1.1)(rxjs@7.8.2)(zone.js@0.15.1))(rxjs@7.8.2))(@angular/core@21.1.1(@angular/compiler@21.1.1)(rxjs@7.8.2)(zone.js@0.15.1))(@angular/material@21.1.1(731dbe7534a4a9544831960bb1e2c2af)))':
+  '@myrmidon/cadmus-part-lexicography-word-forms@0.0.7(@angular/common@21.1.1(@angular/core@21.1.1(@angular/compiler@21.1.1)(rxjs@7.8.2)(zone.js@0.15.1))(rxjs@7.8.2))(@angular/core@21.1.1(@angular/compiler@21.1.1)(rxjs@7.8.2)(zone.js@0.15.1))(@angular/material@21.1.1(731dbe7534a4a9544831960bb1e2c2af))(@myrmidon/cadmus-part-lexicography-lemma@0.0.8(@angular/common@21.1.1(@angular/core@21.1.1(@angular/compiler@21.1.1)(rxjs@7.8.2)(zone.js@0.15.1))(rxjs@7.8.2))(@angular/core@21.1.1(@angular/compiler@21.1.1)(rxjs@7.8.2)(zone.js@0.15.1))(@angular/material@21.1.1(731dbe7534a4a9544831960bb1e2c2af)))':
     dependencies:
       '@angular/common': 21.1.1(@angular/core@21.1.1(@angular/compiler@21.1.1)(rxjs@7.8.2)(zone.js@0.15.1))(rxjs@7.8.2)
       '@angular/core': 21.1.1(@angular/compiler@21.1.1)(rxjs@7.8.2)(zone.js@0.15.1)
       '@angular/material': 21.1.1(731dbe7534a4a9544831960bb1e2c2af)
-      '@myrmidon/cadmus-part-lexicography-lemma': 0.0.7(@angular/common@21.1.1(@angular/core@21.1.1(@angular/compiler@21.1.1)(rxjs@7.8.2)(zone.js@0.15.1))(rxjs@7.8.2))(@angular/core@21.1.1(@angular/compiler@21.1.1)(rxjs@7.8.2)(zone.js@0.15.1))(@angular/material@21.1.1(731dbe7534a4a9544831960bb1e2c2af))
+      '@myrmidon/cadmus-part-lexicography-lemma': 0.0.8(@angular/common@21.1.1(@angular/core@21.1.1(@angular/compiler@21.1.1)(rxjs@7.8.2)(zone.js@0.15.1))(rxjs@7.8.2))(@angular/core@21.1.1(@angular/compiler@21.1.1)(rxjs@7.8.2)(zone.js@0.15.1))(@angular/material@21.1.1(731dbe7534a4a9544831960bb1e2c2af))
       tslib: 2.8.1
 
-  '@myrmidon/cadmus-part-lexicography-word-senses@0.0.7(80f2fd199c792c2c34bc302987dc934c)':
+  '@myrmidon/cadmus-part-lexicography-word-senses@0.0.8(80f2fd199c792c2c34bc302987dc934c)':
     dependencies:
       '@angular/common': 21.1.1(@angular/core@21.1.1(@angular/compiler@21.1.1)(rxjs@7.8.2)(zone.js@0.15.1))(rxjs@7.8.2)
       '@angular/core': 21.1.1(@angular/compiler@21.1.1)(rxjs@7.8.2)(zone.js@0.15.1)
@@ -7064,7 +7064,7 @@ snapshots:
     transitivePeerDependencies:
       - supports-color
 
-  karma-jasmine-html-reporter@2.1.0(jasmine-core@6.0.1)(karma-jasmine@5.1.0(karma@6.4.4))(karma@6.4.4):
+  karma-jasmine-html-reporter@2.2.0(jasmine-core@6.0.1)(karma-jasmine@5.1.0(karma@6.4.4))(karma@6.4.4):
     dependencies:
       jasmine-core: 6.0.1
       karma: 6.4.4
