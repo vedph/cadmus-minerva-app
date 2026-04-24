@@ -56,7 +56,6 @@ services:
       - 4200:80
     depends_on:
       - cadmus-minerva-api
-      - cadmus-biblio-api
     networks:
       - cadmus-minerva-network
 
