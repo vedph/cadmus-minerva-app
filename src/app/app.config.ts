@@ -12,8 +12,7 @@ import { AUTH_JWT_EXCLUDED_URLS, jwtInterceptor } from '@myrmidon/auth-jwt-login
 
 // third-party modules
 import { NgxEchartsModule } from 'ngx-echarts';
-import { NgeMonacoModule } from '@cisstech/nge/monaco';
-import { NgeMarkdownModule } from '@cisstech/nge/markdown';
+import { DefaultMonacoLoader, NGX_MONACO_LOADER_PROVIDER } from '@jean-merelis/ngx-monaco-editor';
 
 // text editor plugins
 import { MdBoldCtePlugin, MdItalicCtePlugin, MdLinkCtePlugin } from '@myrmidon/cadmus-text-ed-md';
@@ -44,8 +43,10 @@ export const appConfig: ApplicationConfig = {
         echarts: () => import('echarts'),
       }),
     ),
-    importProvidersFrom(NgeMonacoModule.forRoot({})),
-    importProvidersFrom(NgeMarkdownModule),
+    {
+      provide: NGX_MONACO_LOADER_PROVIDER,
+      useFactory: () => new DefaultMonacoLoader(),
+    },
     // parts and fragments type IDs to editor group keys mappings
     // https://github.com/nrwl/nx/issues/208#issuecomment-384102058
     // inject like: @Inject('partEditorKeys') partEditorKeys: PartEditorKeys

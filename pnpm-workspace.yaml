@@ -1,0 +1,10 @@
+allowBuilds:
+  '@parcel/watcher': true
+  esbuild: true
+  lmdb: true
+  msgpackr-extract: true
+overrides:
+  # @angular/compiler-cli 22.2.x bundles magic-string 1.4, which imports
+  # encodeRangeMappings (added in sourcemap-codec 1.6.0), but it declares
+  # only ^1.4.14, so pnpm may dedupe it to an older copy.
+  '@angular/compiler-cli>@jridgewell/sourcemap-codec': ^1.6.0
