@@ -3,6 +3,12 @@ allowBuilds:
   esbuild: true
   lmdb: true
   msgpackr-extract: true
+minimumReleaseAgeExclude:
+  - '@myrmidon/cadmus-part-lexicography-lemma@1.0.0'
+  - '@myrmidon/cadmus-part-lexicography-pg@1.0.0'
+  - '@myrmidon/cadmus-part-lexicography-word-collocations@1.0.0'
+  - '@myrmidon/cadmus-part-lexicography-word-forms@1.0.0'
+  - '@myrmidon/cadmus-part-lexicography-word-senses@1.0.0'
 overrides:
   # @angular/compiler-cli 22.2.x bundles magic-string 1.4, which imports
   # encodeRangeMappings (added in sourcemap-codec 1.6.0), but it declares

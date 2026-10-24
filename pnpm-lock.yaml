@@ -245,20 +245,20 @@ importers:
         specifier: ^20.0.0
         version: 20.0.0(f7b091da3a7510602d82abd822e8d826)
       '@myrmidon/cadmus-part-lexicography-lemma':
-        specifier: ^0.1.2
-        version: 0.1.2(@angular/common@22.2.3(@angular/core@22.2.3(@angular/compiler@22.2.3)(rxjs@7.8.2)(zone.js@0.16.3))(rxjs@7.8.2))(@angular/core@22.2.3(@angular/compiler@22.2.3)(rxjs@7.8.2)(zone.js@0.16.3))(@angular/material@22.2.4(e1f25b7cd6f892fb4a76ed0600988d28))
+        specifier: ^1.0.0
+        version: 1.0.0(@angular/common@22.2.3(@angular/core@22.2.3(@angular/compiler@22.2.3)(rxjs@7.8.2)(zone.js@0.16.3))(rxjs@7.8.2))(@angular/core@22.2.3(@angular/compiler@22.2.3)(rxjs@7.8.2)(zone.js@0.16.3))(@angular/material@22.2.4(e1f25b7cd6f892fb4a76ed0600988d28))
       '@myrmidon/cadmus-part-lexicography-pg':
-        specifier: ^0.0.8
-        version: 0.0.8(@angular/common@22.2.3(@angular/core@22.2.3(@angular/compiler@22.2.3)(rxjs@7.8.2)(zone.js@0.16.3))(rxjs@7.8.2))(@angular/core@22.2.3(@angular/compiler@22.2.3)(rxjs@7.8.2)(zone.js@0.16.3))(@angular/material@22.2.4(e1f25b7cd6f892fb4a76ed0600988d28))
+        specifier: ^1.0.0
+        version: 1.0.0(@angular/common@22.2.3(@angular/core@22.2.3(@angular/compiler@22.2.3)(rxjs@7.8.2)(zone.js@0.16.3))(rxjs@7.8.2))(@angular/core@22.2.3(@angular/compiler@22.2.3)(rxjs@7.8.2)(zone.js@0.16.3))(@angular/material@22.2.4(e1f25b7cd6f892fb4a76ed0600988d28))
       '@myrmidon/cadmus-part-lexicography-word-collocations':
-        specifier: ^0.1.2
-        version: 0.1.2(@angular/common@22.2.3(@angular/core@22.2.3(@angular/compiler@22.2.3)(rxjs@7.8.2)(zone.js@0.16.3))(rxjs@7.8.2))(@angular/core@22.2.3(@angular/compiler@22.2.3)(rxjs@7.8.2)(zone.js@0.16.3))(@angular/material@22.2.4(e1f25b7cd6f892fb4a76ed0600988d28))
+        specifier: ^1.0.0
+        version: 1.0.0(@angular/common@22.2.3(@angular/core@22.2.3(@angular/compiler@22.2.3)(rxjs@7.8.2)(zone.js@0.16.3))(rxjs@7.8.2))(@angular/core@22.2.3(@angular/compiler@22.2.3)(rxjs@7.8.2)(zone.js@0.16.3))(@angular/material@22.2.4(e1f25b7cd6f892fb4a76ed0600988d28))
       '@myrmidon/cadmus-part-lexicography-word-forms':
-        specifier: ^0.1.2
-        version: 0.1.2(@angular/common@22.2.3(@angular/core@22.2.3(@angular/compiler@22.2.3)(rxjs@7.8.2)(zone.js@0.16.3))(rxjs@7.8.2))(@angular/core@22.2.3(@angular/compiler@22.2.3)(rxjs@7.8.2)(zone.js@0.16.3))(@angular/material@22.2.4(e1f25b7cd6f892fb4a76ed0600988d28))(@myrmidon/cadmus-part-lexicography-lemma@0.1.2(@angular/common@22.2.3(@angular/core@22.2.3(@angular/compiler@22.2.3)(rxjs@7.8.2)(zone.js@0.16.3))(rxjs@7.8.2))(@angular/core@22.2.3(@angular/compiler@22.2.3)(rxjs@7.8.2)(zone.js@0.16.3))(@angular/material@22.2.4(e1f25b7cd6f892fb4a76ed0600988d28)))
+        specifier: ^1.0.0
+        version: 1.0.0(@angular/common@22.2.3(@angular/core@22.2.3(@angular/compiler@22.2.3)(rxjs@7.8.2)(zone.js@0.16.3))(rxjs@7.8.2))(@angular/core@22.2.3(@angular/compiler@22.2.3)(rxjs@7.8.2)(zone.js@0.16.3))(@angular/material@22.2.4(e1f25b7cd6f892fb4a76ed0600988d28))(@myrmidon/cadmus-part-lexicography-lemma@1.0.0(@angular/common@22.2.3(@angular/core@22.2.3(@angular/compiler@22.2.3)(rxjs@7.8.2)(zone.js@0.16.3))(rxjs@7.8.2))(@angular/core@22.2.3(@angular/compiler@22.2.3)(rxjs@7.8.2)(zone.js@0.16.3))(@angular/material@22.2.4(e1f25b7cd6f892fb4a76ed0600988d28)))
       '@myrmidon/cadmus-part-lexicography-word-senses':
-        specifier: ^0.1.2
-        version: 0.1.2(@angular/common@22.2.3(@angular/core@22.2.3(@angular/compiler@22.2.3)(rxjs@7.8.2)(zone.js@0.16.3))(rxjs@7.8.2))(@angular/core@22.2.3(@angular/compiler@22.2.3)(rxjs@7.8.2)(zone.js@0.16.3))(@angular/material@22.2.4(e1f25b7cd6f892fb4a76ed0600988d28))(@myrmidon/cadmus-refs-asserted-ids@11.0.8(bf7828e6768b7b90ed636fda97f95c4f))
+        specifier: ^1.0.0
+        version: 1.0.0(@angular/common@22.2.3(@angular/core@22.2.3(@angular/compiler@22.2.3)(rxjs@7.8.2)(zone.js@0.16.3))(rxjs@7.8.2))(@angular/core@22.2.3(@angular/compiler@22.2.3)(rxjs@7.8.2)(zone.js@0.16.3))(@angular/material@22.2.4(e1f25b7cd6f892fb4a76ed0600988d28))(@myrmidon/cadmus-refs-asserted-ids@11.0.8(bf7828e6768b7b90ed636fda97f95c4f))
       '@myrmidon/cadmus-preview-pg':
         specifier: ^20.0.0
         version: 20.0.0(ebe9dbce335a376273943ea45fdb5b26)
@@ -1386,42 +1386,42 @@ packages:
       '@myrmidon/ngx-mat-tools': ^3.0.1
       '@myrmidon/ngx-tools': ^3.0.2
 
-  '@myrmidon/cadmus-part-lexicography-lemma@0.1.2':
-    resolution: {integrity: sha512-f7FCNxR0ldHu1HghZbEQ9+zAGCE8ehtORn37BVZJwcnq9jl7XJEfLEZiSfg0sgdUfF4V1QiH4Zd/InG6NONJRA==}
+  '@myrmidon/cadmus-part-lexicography-lemma@1.0.0':
+    resolution: {integrity: sha512-R3OcbbU/4mFjcdL77RcuYN4+mq05kdA3IPzqGSLyBh16wDBy7WNicHwDoxtpFBQTbYVci8aR8hL+MhYlw4n+Rg==}
     peerDependencies:
-      '@angular/common': ^20.0.0 || ^21.0.0
-      '@angular/core': ^20.0.0 || ^21.0.0
-      '@angular/material': ^20.0.0 || ^21.0.0
+      '@angular/common': ^22.0.1
+      '@angular/core': ^22.0.1
+      '@angular/material': ^22.0.1
 
-  '@myrmidon/cadmus-part-lexicography-pg@0.0.8':
-    resolution: {integrity: sha512-VBg9mlF+X/dlZdtRyMYHbFFnTjtxrPJDtDUqZKexPQGQUQ4qW0qJdWL/5RZM9qFrEFUqH9SXm4wgUJlRZfi/Jw==}
+  '@myrmidon/cadmus-part-lexicography-pg@1.0.0':
+    resolution: {integrity: sha512-zV5tZEG0pvJOjrEYYkchIlyKkaDL/vhNNmU2RGCaiHyeXq2X1C7YCt6M+E5szVmiWOaUMUuNq6qDZ1RHq11aSA==}
     peerDependencies:
-      '@angular/common': ^20.0.0 || ^21.0.0
-      '@angular/core': ^20.0.0 || ^21.0.0
-      '@angular/material': ^20.0.0 || ^21.0.0
+      '@angular/common': ^22.0.1
+      '@angular/core': ^22.0.1
+      '@angular/material': ^22.0.1
 
-  '@myrmidon/cadmus-part-lexicography-word-collocations@0.1.2':
-    resolution: {integrity: sha512-sllpzhTmh+PNPRSONXewS9sv1tJrzr2mVLN7ebdOQUkwfWEVyxWikZiw8S7r3QSJZUzrO1rH3pBhKvhZYyD4yQ==}
+  '@myrmidon/cadmus-part-lexicography-word-collocations@1.0.0':
+    resolution: {integrity: sha512-dhNzWmjmaTa958XX3EyDbJwQqXrfuFqSWZHEPgVp6FHTDdLVHYLnBqOzIAj3xS4Ti3iFxgy5syd9SonCVCsPXQ==}
     peerDependencies:
-      '@angular/common': ^20.0.0 || ^21.0.0
-      '@angular/core': ^20.0.0 || ^21.0.0
-      '@angular/material': ^20.0.0 || ^21.0.0
+      '@angular/common': ^22.0.1
+      '@angular/core': ^22.0.1
+      '@angular/material': ^22.0.1
 
-  '@myrmidon/cadmus-part-lexicography-word-forms@0.1.2':
-    resolution: {integrity: sha512-zv1UDn2aAOJFJq7waSCrebKroc6xBfy0Qk4pi91HBfKebk8Cyzjkjx67sT2hueIZe/J4mw9bD4E+ST0pUHT/vg==}
+  '@myrmidon/cadmus-part-lexicography-word-forms@1.0.0':
+    resolution: {integrity: sha512-Np2k/h32XGm9CuihG2zncMc/pTGs87vaKDs23KiBj1VHEIPKZziIlFBdcv7iE2lmy2p8Sn99aXaZ1+cKJzj/+g==}
     peerDependencies:
-      '@angular/common': ^20.0.0 || ^21.0.0
-      '@angular/core': ^20.0.0 || ^21.0.0
-      '@angular/material': ^20.0.0 || ^21.0.0
-      '@myrmidon/cadmus-part-lexicography-lemma': ^0.1.0
+      '@angular/common': ^22.0.1
+      '@angular/core': ^22.0.1
+      '@angular/material': ^22.0.1
+      '@myrmidon/cadmus-part-lexicography-lemma': ^1.0.0
 
-  '@myrmidon/cadmus-part-lexicography-word-senses@0.1.2':
-    resolution: {integrity: sha512-1t6an1DDsYyFhqI+ZetxUDZHqy673RzhmXbNoW5a4PU6z3RISGkrvE317WRjVlEdPZPy8xsiGfKMFKPXrx4Q6g==}
+  '@myrmidon/cadmus-part-lexicography-word-senses@1.0.0':
+    resolution: {integrity: sha512-+9JyK5w3JU72NPDphlrPYjCzmYzrDYwvUz67LjM/7rdqueCatDDPG/Aq6jFtKOobtgh8yZpvtSyty1o9v/OGRg==}
     peerDependencies:
-      '@angular/common': ^20.0.0 || ^21.0.0
-      '@angular/core': ^20.0.0 || ^21.0.0
-      '@angular/material': ^20.0.0 || ^21.0.0
-      '@myrmidon/cadmus-refs-asserted-ids': ^10.0.17
+      '@angular/common': ^22.0.1
+      '@angular/core': ^22.0.1
+      '@angular/material': ^22.0.1
+      '@myrmidon/cadmus-refs-asserted-ids': ^11.0.0
 
   '@myrmidon/cadmus-preview-pg@20.0.0':
     resolution: {integrity: sha512-RsCjOPMTWI52ulhELp3lwrH2gNEAy+BaSU1ALMVuk3iEEZ7mXhgMWcHNcGMdyfHFkI/gwmJDoeixlaDJl3sp3g==}
@@ -5349,36 +5349,36 @@ snapshots:
       marked: 18.1.1
       tslib: 2.8.1
 
-  '@myrmidon/cadmus-part-lexicography-lemma@0.1.2(@angular/common@22.2.3(@angular/core@22.2.3(@angular/compiler@22.2.3)(rxjs@7.8.2)(zone.js@0.16.3))(rxjs@7.8.2))(@angular/core@22.2.3(@angular/compiler@22.2.3)(rxjs@7.8.2)(zone.js@0.16.3))(@angular/material@22.2.4(e1f25b7cd6f892fb4a76ed0600988d28))':
+  '@myrmidon/cadmus-part-lexicography-lemma@1.0.0(@angular/common@22.2.3(@angular/core@22.2.3(@angular/compiler@22.2.3)(rxjs@7.8.2)(zone.js@0.16.3))(rxjs@7.8.2))(@angular/core@22.2.3(@angular/compiler@22.2.3)(rxjs@7.8.2)(zone.js@0.16.3))(@angular/material@22.2.4(e1f25b7cd6f892fb4a76ed0600988d28))':
     dependencies:
       '@angular/common': 22.2.3(@angular/core@22.2.3(@angular/compiler@22.2.3)(rxjs@7.8.2)(zone.js@0.16.3))(rxjs@7.8.2)
       '@angular/core': 22.2.3(@angular/compiler@22.2.3)(rxjs@7.8.2)(zone.js@0.16.3)
       '@angular/material': 22.2.4(e1f25b7cd6f892fb4a76ed0600988d28)
       tslib: 2.8.1
 
-  '@myrmidon/cadmus-part-lexicography-pg@0.0.8(@angular/common@22.2.3(@angular/core@22.2.3(@angular/compiler@22.2.3)(rxjs@7.8.2)(zone.js@0.16.3))(rxjs@7.8.2))(@angular/core@22.2.3(@angular/compiler@22.2.3)(rxjs@7.8.2)(zone.js@0.16.3))(@angular/material@22.2.4(e1f25b7cd6f892fb4a76ed0600988d28))':
+  '@myrmidon/cadmus-part-lexicography-pg@1.0.0(@angular/common@22.2.3(@angular/core@22.2.3(@angular/compiler@22.2.3)(rxjs@7.8.2)(zone.js@0.16.3))(rxjs@7.8.2))(@angular/core@22.2.3(@angular/compiler@22.2.3)(rxjs@7.8.2)(zone.js@0.16.3))(@angular/material@22.2.4(e1f25b7cd6f892fb4a76ed0600988d28))':
     dependencies:
       '@angular/common': 22.2.3(@angular/core@22.2.3(@angular/compiler@22.2.3)(rxjs@7.8.2)(zone.js@0.16.3))(rxjs@7.8.2)
       '@angular/core': 22.2.3(@angular/compiler@22.2.3)(rxjs@7.8.2)(zone.js@0.16.3)
       '@angular/material': 22.2.4(e1f25b7cd6f892fb4a76ed0600988d28)
       tslib: 2.8.1
 
-  '@myrmidon/cadmus-part-lexicography-word-collocations@0.1.2(@angular/common@22.2.3(@angular/core@22.2.3(@angular/compiler@22.2.3)(rxjs@7.8.2)(zone.js@0.16.3))(rxjs@7.8.2))(@angular/core@22.2.3(@angular/compiler@22.2.3)(rxjs@7.8.2)(zone.js@0.16.3))(@angular/material@22.2.4(e1f25b7cd6f892fb4a76ed0600988d28))':
+  '@myrmidon/cadmus-part-lexicography-word-collocations@1.0.0(@angular/common@22.2.3(@angular/core@22.2.3(@angular/compiler@22.2.3)(rxjs@7.8.2)(zone.js@0.16.3))(rxjs@7.8.2))(@angular/core@22.2.3(@angular/compiler@22.2.3)(rxjs@7.8.2)(zone.js@0.16.3))(@angular/material@22.2.4(e1f25b7cd6f892fb4a76ed0600988d28))':
     dependencies:
       '@angular/common': 22.2.3(@angular/core@22.2.3(@angular/compiler@22.2.3)(rxjs@7.8.2)(zone.js@0.16.3))(rxjs@7.8.2)
       '@angular/core': 22.2.3(@angular/compiler@22.2.3)(rxjs@7.8.2)(zone.js@0.16.3)
       '@angular/material': 22.2.4(e1f25b7cd6f892fb4a76ed0600988d28)
       tslib: 2.8.1
 
-  '@myrmidon/cadmus-part-lexicography-word-forms@0.1.2(@angular/common@22.2.3(@angular/core@22.2.3(@angular/compiler@22.2.3)(rxjs@7.8.2)(zone.js@0.16.3))(rxjs@7.8.2))(@angular/core@22.2.3(@angular/compiler@22.2.3)(rxjs@7.8.2)(zone.js@0.16.3))(@angular/material@22.2.4(e1f25b7cd6f892fb4a76ed0600988d28))(@myrmidon/cadmus-part-lexicography-lemma@0.1.2(@angular/common@22.2.3(@angular/core@22.2.3(@angular/compiler@22.2.3)(rxjs@7.8.2)(zone.js@0.16.3))(rxjs@7.8.2))(@angular/core@22.2.3(@angular/compiler@22.2.3)(rxjs@7.8.2)(zone.js@0.16.3))(@angular/material@22.2.4(e1f25b7cd6f892fb4a76ed0600988d28)))':
+  '@myrmidon/cadmus-part-lexicography-word-forms@1.0.0(@angular/common@22.2.3(@angular/core@22.2.3(@angular/compiler@22.2.3)(rxjs@7.8.2)(zone.js@0.16.3))(rxjs@7.8.2))(@angular/core@22.2.3(@angular/compiler@22.2.3)(rxjs@7.8.2)(zone.js@0.16.3))(@angular/material@22.2.4(e1f25b7cd6f892fb4a76ed0600988d28))(@myrmidon/cadmus-part-lexicography-lemma@1.0.0(@angular/common@22.2.3(@angular/core@22.2.3(@angular/compiler@22.2.3)(rxjs@7.8.2)(zone.js@0.16.3))(rxjs@7.8.2))(@angular/core@22.2.3(@angular/compiler@22.2.3)(rxjs@7.8.2)(zone.js@0.16.3))(@angular/material@22.2.4(e1f25b7cd6f892fb4a76ed0600988d28)))':
     dependencies:
       '@angular/common': 22.2.3(@angular/core@22.2.3(@angular/compiler@22.2.3)(rxjs@7.8.2)(zone.js@0.16.3))(rxjs@7.8.2)
       '@angular/core': 22.2.3(@angular/compiler@22.2.3)(rxjs@7.8.2)(zone.js@0.16.3)
       '@angular/material': 22.2.4(e1f25b7cd6f892fb4a76ed0600988d28)
-      '@myrmidon/cadmus-part-lexicography-lemma': 0.1.2(@angular/common@22.2.3(@angular/core@22.2.3(@angular/compiler@22.2.3)(rxjs@7.8.2)(zone.js@0.16.3))(rxjs@7.8.2))(@angular/core@22.2.3(@angular/compiler@22.2.3)(rxjs@7.8.2)(zone.js@0.16.3))(@angular/material@22.2.4(e1f25b7cd6f892fb4a76ed0600988d28))
+      '@myrmidon/cadmus-part-lexicography-lemma': 1.0.0(@angular/common@22.2.3(@angular/core@22.2.3(@angular/compiler@22.2.3)(rxjs@7.8.2)(zone.js@0.16.3))(rxjs@7.8.2))(@angular/core@22.2.3(@angular/compiler@22.2.3)(rxjs@7.8.2)(zone.js@0.16.3))(@angular/material@22.2.4(e1f25b7cd6f892fb4a76ed0600988d28))
       tslib: 2.8.1
 
-  '@myrmidon/cadmus-part-lexicography-word-senses@0.1.2(@angular/common@22.2.3(@angular/core@22.2.3(@angular/compiler@22.2.3)(rxjs@7.8.2)(zone.js@0.16.3))(rxjs@7.8.2))(@angular/core@22.2.3(@angular/compiler@22.2.3)(rxjs@7.8.2)(zone.js@0.16.3))(@angular/material@22.2.4(e1f25b7cd6f892fb4a76ed0600988d28))(@myrmidon/cadmus-refs-asserted-ids@11.0.8(bf7828e6768b7b90ed636fda97f95c4f))':
+  '@myrmidon/cadmus-part-lexicography-word-senses@1.0.0(@angular/common@22.2.3(@angular/core@22.2.3(@angular/compiler@22.2.3)(rxjs@7.8.2)(zone.js@0.16.3))(rxjs@7.8.2))(@angular/core@22.2.3(@angular/compiler@22.2.3)(rxjs@7.8.2)(zone.js@0.16.3))(@angular/material@22.2.4(e1f25b7cd6f892fb4a76ed0600988d28))(@myrmidon/cadmus-refs-asserted-ids@11.0.8(bf7828e6768b7b90ed636fda97f95c4f))':
     dependencies:
       '@angular/common': 22.2.3(@angular/core@22.2.3(@angular/compiler@22.2.3)(rxjs@7.8.2)(zone.js@0.16.3))(rxjs@7.8.2)
       '@angular/core': 22.2.3(@angular/compiler@22.2.3)(rxjs@7.8.2)(zone.js@0.16.3)
